@@ -1,0 +1,4 @@
+http://www.cs.toronto.edu/~vmnih/data/mass_buildings/valid/sat//22978945_15.tiff
+http://www.cs.toronto.edu/~vmnih/data/mass_buildings/valid/sat//23429155_15.tiff
+http://www.cs.toronto.edu/~vmnih/data/mass_buildings/valid/sat//23579050_15.tiff
+http://www.cs.toronto.edu/~vmnih/data/mass_buildings/valid/sat//23728930_15.tiff
